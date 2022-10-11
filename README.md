@@ -1,6 +1,6 @@
 # Work Day Scheduler Starter Code
 
-https://github.com/Amatos201/oh-man-work-sched.git
+
 
 Description
 A calendar application that allows a user to save events for each hour of the day limited to 8am tp 5pm. It runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
